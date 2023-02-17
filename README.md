@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**chakraborty-arnab/chakraborty-arnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently pursuing a **Master in Information systems** at Northeastern University
+- 🤔 I'm looking for an **internship/co-op** in Cloud Backend ML/MLOps roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning about cloud computing, advances in data science and software engineering
+- :office: I've 4 years of experience at **Quantiphi**, building highly-scalable data-intensive applications and services in diverse industries
+
+- 💬 Ask me about fitness and nutrition
+- 📫 How to reach me: arnabchakraborty663@gmail.com
+- 😄 Pronouns: He/Him
+
+Find out more about me [here](https://arnabxtech.streamlit.app/)!
