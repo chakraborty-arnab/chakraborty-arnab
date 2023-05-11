@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently pursuing a **Master in Information systems** at Northeastern University
-- 🤔 I'm looking for an **internship/co-op** in Cloud Backend ML/MLOps roles.
 
 - 🌱 I’m currently learning about cloud computing, advances in data science and software engineering
 - :office: I've 4 years of experience at **Quantiphi**, building highly-scalable data-intensive applications and services in diverse industries
