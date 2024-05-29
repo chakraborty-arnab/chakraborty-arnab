@@ -9,7 +9,7 @@ Before this, I led a team of 20+ highly skilled engineers at Quantiphi, building
 I enjoy applying my knowledge to algorithmic trading and developing strategies that consistently outperform the market.
 
 - 💬 Ask me about fitness and nutrition
-- 📫 How to reach me: arnabchakraborty663@gmail.com
+- 📫 How to reach me: chakraborty.arn@northeastern.edu
 - 😄 Pronouns: He/Him
 
 Find out more about me [here](https://arnabxtech.netlify.app/)!
